@@ -1,0 +1,16 @@
+{
+  "name": "APNS-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apn": "^2.1.2",
+    "firebase": "^3.6.6"
+  }
+}
